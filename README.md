@@ -3,7 +3,7 @@
 This project is a web-based platform designed to support farmers, students, and researchers in the field of Agronomy. It provides crop-related information, market price tracking, seasonal guidance, and essential resources to promote smart and sustainable farming practices.
 
 ## 🚜 Key Features
-
+- Udita 
 - 📊 **Crop Market Price Display**  
   View real-time or manually updated prices for various crops in different regions.
 
